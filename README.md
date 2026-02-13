@@ -23,3 +23,4 @@ Schematic and PCB
 <img width="546" height="1170" alt="image" src="https://github.com/user-attachments/assets/4dfa445d-249f-4662-ad2a-b2ede290e971" />
 
 BOM
+<img width="1702" height="480" alt="image" src="https://github.com/user-attachments/assets/703fbd12-dab2-4efb-8434-e87aafd8db05" />
