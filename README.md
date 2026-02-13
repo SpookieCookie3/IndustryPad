@@ -21,7 +21,7 @@ Firmware in QMK
 2-Layer PCB
 
 # IndustryPad build
-<img width="1369" height="989" alt="image" src="https://github.com/user-attachments/assets/aacacd04-eff2-442e-87bc-ef933458feae" />
+<img width="625" height="1000" alt="image" src="https://github.com/user-attachments/assets/40b0159a-4dd2-4bf7-a264-6e12972c748a" />
 <img width="1105" height="839" alt="image" src="https://github.com/user-attachments/assets/2ab8cbb4-097c-4394-982e-d144bb7214f8" />
 <img width="531" height="244" alt="image" src="https://github.com/user-attachments/assets/3d034609-a4ca-4d82-aa35-42d7ac55b27a" />
 
