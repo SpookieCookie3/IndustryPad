@@ -7,12 +7,18 @@ I was planning on making some projects including 3d modeling or arduino based el
 
 # Features
 6 MX-Style switches 
+
 Rotary Encoder
+
 0.91 inch OLED Display
+
 Powered by Seeed XIAO RP2040 
+
 Firmware in QMK
+
 3D Case
-2-Layer PCB (≤100mm x 100mm)
+
+2-Layer PCB
 
 # IndustryPad build
 <img width="1369" height="989" alt="image" src="https://github.com/user-attachments/assets/aacacd04-eff2-442e-87bc-ef933458feae" />
