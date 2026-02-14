@@ -29,14 +29,17 @@ Firmware in QMK
 # Schematic and PCB
 <img width="2031" height="1148" alt="image" src="https://github.com/user-attachments/assets/a0f0d3bf-0436-4f53-9adc-2d4d6a262809" />
 <img width="546" height="1170" alt="image" src="https://github.com/user-attachments/assets/4dfa445d-249f-4662-ad2a-b2ede290e971" />
- 
+
 # BOM
-index | Name | Quantity | Price | URL 
---- | --- | --- | --- |--- 
-1 | Diode 1N4148 DO-35| 7 | 290 | 286
-2 | Seeed XIAO RP2040 | 1 | 290 | 286
-3 | MX-Style switches | 6 | 290 | 286
-4 | White keycaps | 6 | 290 | 286
-5 | EC11 Rotary Encoder | 1 | 290 | 286
-6 | 0.91" 128x32 OLED Display (pin order: GND-VCC-SCL-SDA) | 1 | 290 | 286
+index | Name | Quantity 
+--- | --- | --- | ---  
+1 | Diode 1N4148 DO-35| 7 
+2 | Seeed XIAO RP2040 | 1 
+3 | MX-Style switches | 6 
+4 | EC11 Rotary Encoder | 1 
+5 | 0.91" 128x32 OLED Display (pin order: GND-VCC-SCL-SDA) | 1 
+6 | M3x16mm screws | 4 
+7 | M3x5mx4mm heatset inserts | 4
+8 | White keycaps | 6
+
 
