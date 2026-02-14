@@ -31,7 +31,7 @@ Firmware in QMK
 <img width="546" height="1170" alt="image" src="https://github.com/user-attachments/assets/4dfa445d-249f-4662-ad2a-b2ede290e971" />
 
 # BOM
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
-<img width="1702" height="480" alt="image" src="https://github.com/user-attachments/assets/703fbd12-dab2-4efb-8434-e87aafd8db05" />
+index | Name | Quantity | Price | URL 
+--- | --- | --- | --- |--- 
+1 | Diode 1N4148 | 7 | 290 | 286 
+
