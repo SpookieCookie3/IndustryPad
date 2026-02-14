@@ -32,7 +32,7 @@ Firmware in QMK
 
 # BOM
 index | Name | Quantity
---- | --- | --- | ---
+--- | --- | ---
 1 | Diode 1N4148 DO-35| 7
 2 | Seeed XIAO RP2040 | 1
 3 | MX-Style switches | 6
