@@ -2,8 +2,10 @@
 
 A macropad designed in a shape of a industrial radio remote controler. It has six MX-Style switches, one EC11 Rotary encoders, one 0.91 inch OLED display, it's based on the Seeed XIAO RP2040 that uses QMK firmware
 
-It's my first ever project, i had no experience in 3D modeling or making PCB so im quite happy with what i end up with :3
+It's my first ever project, i had no experience in 3D modeling or making PCB so im quite happy with what i end up with >u<
 I was planning on making some projects including 3d modeling or arduino based elecronics for way too long so this blueprint project was a great push for me to start doing something, anything in my free time. <3
+
+The OLED displays an animation of a cat meowing :3
 
 # Features
 6 MX-Style switches 
