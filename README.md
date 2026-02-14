@@ -22,8 +22,9 @@ Firmware in QMK
 
 # IndustryPad build
 <img width="625" height="1000" alt="image" src="https://github.com/user-attachments/assets/40b0159a-4dd2-4bf7-a264-6e12972c748a" />
-<img width="1105" height="839" alt="image" src="https://github.com/user-attachments/assets/2ab8cbb4-097c-4394-982e-d144bb7214f8" />
-<img width="531" height="244" alt="image" src="https://github.com/user-attachments/assets/3d034609-a4ca-4d82-aa35-42d7ac55b27a" />
+<img width="1161" height="854" alt="image" src="https://github.com/user-attachments/assets/adf1d7cf-bf9e-4677-b785-fad051cf1ffb" />
+<img width="899" height="449" alt="image" src="https://github.com/user-attachments/assets/c0a8fbc3-85e2-4469-a02d-42192a942457" />
+<img width="1653" height="886" alt="image" src="https://github.com/user-attachments/assets/2a3ff36e-fd9e-486b-ac7d-d3fae6c4dabc" />
 
 # Schematic and PCB
 <img width="2031" height="1148" alt="image" src="https://github.com/user-attachments/assets/a0f0d3bf-0436-4f53-9adc-2d4d6a262809" />
