@@ -33,5 +33,6 @@ Firmware in QMK
 # BOM
 index | Name | Quantity | Price | URL 
 --- | --- | --- | --- |--- 
-1 | Diode 1N4148 | 7 | 290 | 286 
+1 | Diode 1N4148 | 7 | 290 | 286
+2 | Seeed XIAO RP2040 | 1 | 290 | 286
 
